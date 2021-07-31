@@ -1,0 +1,42 @@
+.background
+{
+   background: linear-gradient(-45deg, coral, coral, fuchsia);
+}
+
+.heading 
+{
+   display: flex;
+   justify-content: center; 
+   font-family: cursive;
+   color: coral;
+   background: white;
+}
+
+.dragonImg
+{
+   display: flex;
+   justify-content: center;
+   position: relative;
+   top: 200;
+   border: 10px, fuchsia;
+}
+
+.images
+{
+   display: flex;
+   justify-content: center;
+   position: relative;
+   top: 20;
+   border: 10px, fuchsia;
+}
+
+.paragraph
+{
+   display: flex;
+   justify-content: center;
+   font-size: large;
+   font-family: cursive;
+   
+   position: relative;
+   top: 10px;
+}
